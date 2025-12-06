@@ -1,6 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-![Mark B's Github Stats](https://github-readme-stats.vercel.app/api?username=Fail-Safe)
+## What Have I Been Up To?
+
+| | |
+|-|-|
+|![What Have I Been Up To?](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fail-Safe)|![Contribution Streak](https://streak-stats.demolab.com/?user=Fail-Safe)|
+
+## Show Me the Stats!
+
+|Contribution Streak|🏆 My Trophy Case 🏆|
+|:-:|:-:|
+|![Show Me the Stats!](https://github-stats-alpha.vercel.app/api?username=Fail-Safe)|![My Trophy Case](https://github-profile-trophy.vercel.app/?username=Fail-Safe)|
 
 <!--
 **Fail-Safe/Fail-Safe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +23,10 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Stats Projects
+https://github.com/lowlighter/metrics
+https://github.com/anuraghazra/github-readme-stats
+
 -->
