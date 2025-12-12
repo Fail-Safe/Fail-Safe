@@ -4,7 +4,7 @@
 
 | | |
 |-|-|
-|![What Have I Been Up To?](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fail-Safe)|![Contribution Streak](https://streak-stats.demolab.com/?user=Fail-Safe)|
+|![What Have I Been Up To?](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fail-Safe)|![Contribution Streak](https://github-readme-streak-stats-fail-safe.vercel.app?user=Fail-Safe&theme=shadow-blue&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly)|
 
 ## Show Me the Stats!
 
