@@ -10,7 +10,7 @@
 
 |Contribution Streak|🏆 My Trophy Case 🏆|
 |:-:|:-:|
-|![Show Me the Stats!](https://github-stats-alpha.vercel.app/api?username=Fail-Safe)|![My Trophy Case](https://github-profile-trophy.vercel.app/?username=Fail-Safe)|
+|![Show Me the Stats!](https://github-stats-alpha.vercel.app/api?username=Fail-Safe)|![My Trophy Case](https://github-profile-trophy-fail-safe.vercel.app/?username=Fail-Safe&theme=light)|
 
 <!--
 **Fail-Safe/Fail-Safe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
